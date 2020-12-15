@@ -4,3 +4,4 @@ https://sourceforge.net/projects/pentaho/files/Pentaho%208.0/client-tools/psw-ce
 https://sourceforge.net/projects/pentaho/files/Pentaho%208.0/client-tools/pdi-ce-8.0.0.0-28.zip/download
 https://sourceforge.net/projects/pentaho/files/Pentaho%208.0/server/pentaho-server-ce-8.0.0.0-28.zip/download (Pentaho Analisis Server)
 https://sourceforge.net/projects/pentaho/files/Pentaho%208.0/server/pentaho-server-manual-ce-8.0.0.0-28.zip/download (Manual de Pentaho [8.0])
+https://www.talend.com/es/products/pricing-model/ [Versión Open Source de Talend]
